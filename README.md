@@ -4,9 +4,9 @@
 This is a test repo.
 
 ## Technologies used 
-> HTML
-> CSS
-> JS
+- HTML
+- CSS
+- JS
 
 
 ## Bugs known
